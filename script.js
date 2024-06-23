@@ -279,15 +279,3 @@ function updateTeam(team, goalsFor, goalsAgainst) {
 
 updateTeam(team, goalsFor, goalsAgainst)        
 
-// Function to sort teams in the league table
-function sortTeams() {
-    // Sort the league table based on points, goal difference, etc.
-    // Implementation depends on your existing code structure
-}
-
-// Function to render the league table
-function renderLeagueTable() {
-    // Render the league table with updated statistics
-    // Implementation depends on your existing code structure
-}
-
